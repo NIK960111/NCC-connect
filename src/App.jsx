@@ -1,6 +1,9 @@
-import './App.css'
 
+import './App.css'
+import { supabase } from './lib/supabase'
 function App() {
+   
+ 
   return (
     <div className="app">
 
